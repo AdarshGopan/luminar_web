@@ -1,0 +1,71 @@
+h5{
+    color: rgb(110, 107, 107);
+    font-size: medium;
+  }
+    h5:hover{
+        color: rgb(110, 32, 184);
+    }
+    #activeimage{
+      height:400px
+    }
+    #nimg{
+      height:400px
+    }
+    #imgmain{
+      height: 650px;
+  }
+  body{
+      height: 1000px;
+  }
+  #headi{
+    color: rgb(102, 17, 141);
+  }
+  #headmain{
+    margin-top: 110px;
+    margin-left: 75px;
+  }
+  #g{
+    color: rgb(128, 124, 120);
+  }
+  #navheight{
+    height: 85px;
+  }
+  #girl{
+    margin-left: 70px;
+  }
+  #buttongirl{
+    height: 60px;
+    width: 160px;
+    color: white;
+    background-color: rgb(96, 29, 122);
+    border-color:black;
+    border-radius: 40px;
+  }
+  #buttongirl:hover{
+    color: rgb(96, 29, 122);
+    background-color: white;
+    border-color:rgb(6, 4, 7);
+  }
+  .second{
+    background-color: rgb(247, 240, 240);
+    height: 800px;
+  }
+ #shead{
+  margin-top: 30px;
+  text-align: center;
+  color: rgb(9, 9, 105);
+ }
+ #cour{
+  color: rgb(133, 66, 209);
+ }
+ #girlwithbook{
+  height: 386px;
+  width: 570px;
+ }
+ #rightbook{
+  background-color: white;
+  padding: 40px;
+}
+#rightheadbook{
+  color: rgb(112, 43, 177);
+}
