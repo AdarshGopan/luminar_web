@@ -38,17 +38,17 @@ h5{
     width: 160px;
     color: white;
     background-color: rgb(96, 29, 122);
-    border-color:black;
+    border-color: rgb(96, 29, 122);
     border-radius: 40px;
   }
   #buttongirl:hover{
     color: rgb(96, 29, 122);
     background-color: white;
-    border-color:rgb(6, 4, 7);
+    border-color: rgb(96, 29, 122);
   }
   .second{
     background-color: rgb(247, 240, 240);
-    height: 800px;
+    height: 1290px;
   }
  #shead{
   margin-top: 30px;
@@ -60,7 +60,7 @@ h5{
  }
  #girlwithbook{
   height: 386px;
-  width: 570px;
+  width: 560px;
  }
  #rightbook{
   background-color: white;
@@ -68,4 +68,28 @@ h5{
 }
 #rightheadbook{
   color: rgb(112, 43, 177);
+}
+#fbutton:hover{
+  background-color: rgb(189, 98, 207);
+}
+#fbutton{
+    height: 60px;
+    width: 180px;
+    color: white;
+    background-color: rgb(113, 32, 145);
+    border-radius: 40px;
+    border-color: rgb(113, 32, 145);
+}
+#lastbutton{
+      margin-left: 600px;
+      height: 60px;
+      width: 170px;
+      color:rgb(113, 32, 145);
+      background-color: white ;
+      border-radius: 40px;
+      border-color: rgb(113, 32, 145);
+}
+#lastbutton:hover{
+  color: white;
+  background-color: rgb(113, 32, 145);
 }
